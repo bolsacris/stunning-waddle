@@ -77,7 +77,7 @@ Sistema: 🟩 Compatible
 | [Custom Weapon Properties](https://github.com/bolsacris/customwp) | 🟨 Pendiente de Actualizar | Tengo que comprobar que sigue funcionando en la v10 |
 | [D&D Character Monitor](https://github.com/jessev14/dnd5e-character-monitor) | 🟧 Sin Actualizar | El modulo parece activo |
 ## PF2e
-Sistema: 
+Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
 | --- | --- | --- |
 | [PF2e Modifiers Matter](https://github.com/shemetz/pf2e-modifiers-matter) | 🟩 Compatible |  |
@@ -86,6 +86,7 @@ Sistema:
 | [PF2e Add Actions](https://www.foundryvtt-hub.com/package/pathfinder2eactionmacros/) | 🟥 Sin Actualizar | Modulo archivado |
 | [PF2e Keybind Menagerie](https://github.com/Drental/foundryvtt-pf2e-f-is-for-flatfooted) | ⬛ Desconocido |  |
 ## Mörk Borg
+Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
 | --- | --- | --- |
 | [Mörk Borg Third Party Content](https://github.com/fvtt-fria-ligan/morkborg-foundry-3p) | 🟩 Compatible |  |
