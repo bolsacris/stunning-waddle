@@ -25,6 +25,9 @@ Fecha de última revisión: 09/09/22
 | [Combat Utility Belt](https://github.com/death-save/combat-utility-belt) | 🟩 Compatible |  |
 | [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders) | 🟩 Compatible |  |
 | [DF Dropables](https://github.com/DFreds/dfreds-droppables) | 🟩 Compatible |  |
+| [Dice so Nice!](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) | 🟩 Compatible |  |
+| [Dice Tray](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) | 🟩 Compatible |  |
+| [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
 | [Bar Brawl](https://gitlab.com/woodentavern/foundryvtt-bar-brawl) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
