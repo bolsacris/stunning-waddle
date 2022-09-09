@@ -45,6 +45,8 @@ Fecha de última revisión: 09/09/22
 | [Stairways](https://gitlab.com/SWW13/foundryvtt-stairways/-/tree/foundryv-v10) | 🟩 Compatible |  |
 | [Token Variant Art](https://github.com/Aedif/TokenVariants) | 🟩 Compatible |  |
 | [Torch](https://github.com/League-of-Foundry-Developers/Torch) | 🟩 Compatible |  |
+| [Universal Battlemap Importer](https://github.com/moo-man/FVTT-DD-Import) | 🟩 Compatible |  |
+| [Weather Control](https://gitlab.com/jstebenne/foundryvtt-weather-control) | 🟩 Compatible |  |
 | [Pings](https://gitlab.com/foundry-azzurite/pings/) | 🟪 No necesario en v10 | Funcionalidad añadida a Foundry Base |
 | [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
 | [PDFoundry](https://github.com/Djphoenix719/PDFoundry) | 🟨 Pendiente de Actualizar | Se ha [prometido]([https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099](https://github.com/Djphoenix719/PDFoundry/issues/142#issuecomment-1237123850)) actualización |
@@ -68,7 +70,9 @@ Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
 | --- | --- | --- |
 | [Autocomplete Inline Properties](https://github.com/ghost-fvtt/FVTT-Autocomplete-Inline-Properties) | 🟩 Compatible |  |
+| [Let's Trade 5e](https://github.com/KageJittai/lets-trade-5e) | 🟩 Compatible |  |
 | Plutonium | 🟩 Compatible |  |
+| [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) | 🟩 Compatible |  |
 | [Better Rolls for 5e](https://github.com/RedReign/FoundryVTT-BetterRolls5e) | 🟦 Sustituir por Alternativa | Sin mantener, sustituir por [Ready Set Roll for 5e](https://github.com/MangoFVTT/fvtt-ready-set-roll-5e) |
 | [Custom Weapon Properties](https://github.com/bolsacris/customwp) | 🟨 Pendiente de Actualizar | Tengo que comprobar que sigue funcionando en la v10 |
 | [D&D Character Monitor](https://github.com/jessev14/dnd5e-character-monitor) | 🟧 Sin Actualizar | El modulo parece activo |
