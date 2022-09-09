@@ -27,10 +27,15 @@ Fecha de última revisión: 09/09/22
 | [DF Dropables](https://github.com/DFreds/dfreds-droppables) | 🟩 Compatible |  |
 | [Dice so Nice!](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) | 🟩 Compatible |  |
 | [Dice Tray](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) | 🟩 Compatible |  |
+| [Forien's Quest Log](https://github.com/League-of-Foundry-Developers/foundryvtt-forien-quest-log) | 🟩 Compatible |  |
+| [Foundry Community Macros](https://github.com/foundry-vtt-community/macros) | 🟩 Compatible | Parcialmente compatible, algunas macros no funcionan y están archivadas |
+| [Foundry Community Tables](https://github.com/foundry-vtt-community/tables) | 🟩 Compatible |  |
+| [FXMaster](https://github.com/ghost-fvtt/fxmaster) | 🟩 Compatible |  |
 | [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
 | [Bar Brawl](https://gitlab.com/woodentavern/foundryvtt-bar-brawl) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
+| [GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen) | 🟥 Sin Actualizar | Tengo entendido que el creador dijo no querer actualizar |
 | [Autocomplete Whisper](https://github.com/orcnog/autocomplete-whisper/) | ⬛ Desconocido |  |
 | [Chat Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait) | ⬛ Desconocido |  |
 | [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | ⬛ Desconocido |  |
