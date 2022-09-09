@@ -1,11 +1,18 @@
 # v10 Compatibility List
 Fecha de última revisión: 09/09/22
+
 🟩 Compatible
+
 🟦 Sustituir por Alternativa
+
 🟨 Pendiente de Actualizar
+
 🟧 Sin Actualizar pero podría actualizarse
+
 🟥 Sin Actualizar
+
 ⬛ Desconocido
+
 ## Generales
 | Modulo | Estado | Notas |
 | --- | --- | --- |
