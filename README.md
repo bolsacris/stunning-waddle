@@ -5,6 +5,8 @@ Fecha de última revisión: 09/09/22
 
 🟦 Sustituir por Alternativa
 
+🟪 No necesario en v10
+
 🟨 Pendiente de Actualizar
 
 🟧 Sin Actualizar pero podría actualizarse
@@ -31,6 +33,11 @@ Fecha de última revisión: 09/09/22
 | [Foundry Community Macros](https://github.com/foundry-vtt-community/macros) | 🟩 Compatible | Parcialmente compatible, algunas macros no funcionan y están archivadas |
 | [Foundry Community Tables](https://github.com/foundry-vtt-community/tables) | 🟩 Compatible |  |
 | [FXMaster](https://github.com/ghost-fvtt/fxmaster) | 🟩 Compatible |  |
+| [Health Estimate](https://github.com/mclemente/healthEstimate) | 🟩 Compatible |  |
+| [Image Hover](https://github.com/Eriku33/Foundry-VTT-Image-Hover) | 🟩 Compatible |  |
+| [Minimal UI](https://github.com/saif-ellafi/foundryvtt-minimal-ui) | 🟩 Compatible |  |
+| [Module Management+](https://github.com/mouse0270/module-credits) | 🟩 Compatible |  |
+| [Party Overview](https://github.com/mclemente/party-overview) | 🟩 Compatible |  |
 | [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
 | [Bar Brawl](https://gitlab.com/woodentavern/foundryvtt-bar-brawl) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
@@ -41,6 +48,7 @@ Fecha de última revisión: 09/09/22
 | [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | ⬛ Desconocido |  |
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | ⬛ Desconocido |  |
 | [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | ⬛ Desconocido |  |
+| [Laptop Form Fix](https://github.com/wsaunders1014/laptop-fix) | ⬛ Desconocido | Sin actualizar desde 2020 |
 ## D&D 5e
 Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
@@ -53,3 +61,8 @@ Sistema: 🟩 Compatible
 Sistema: 
 | Modulo | Estado | Notas |
 | --- | --- | --- |
+| [PF2e Add Actions](https://www.foundryvtt-hub.com/package/pathfinder2eactionmacros/) | 🟥 Sin Actualizar | Modulo archivado |
+## Mörk Borg
+| Modulo | Estado | Notas |
+| --- | --- | --- |
+| [Mörk Borg Third Party Content](https://github.com/fvtt-fria-ligan/morkborg-foundry-3p) | 🟩 Compatible |  |
