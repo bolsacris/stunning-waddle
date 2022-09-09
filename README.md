@@ -39,6 +39,12 @@ Fecha de última revisión: 09/09/22
 | [Module Management+](https://github.com/mouse0270/module-credits) | 🟩 Compatible |  |
 | [Party Overview](https://github.com/mclemente/party-overview) | 🟩 Compatible |  |
 | [Polyglot](https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot) | 🟩 Compatible |  |
+| [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer) | 🟩 Compatible |  |
+| [Simple Calendar](https://github.com/vigoren/foundryvtt-simple-calendar) | 🟩 Compatible |  |
+| [Splatter](https://github.com/theripper93/Splatter) | 🟩 Compatible |  |
+| [Stairways](https://gitlab.com/SWW13/foundryvtt-stairways/-/tree/foundryv-v10) | 🟩 Compatible |  |
+| [Token Variant Art](https://github.com/Aedif/TokenVariants) | 🟩 Compatible |  |
+| [Torch](https://github.com/League-of-Foundry-Developers/Torch) | 🟩 Compatible |  |
 | [Pings](https://gitlab.com/foundry-azzurite/pings/) | 🟪 No necesario en v10 | Funcionalidad añadida a Foundry Base |
 | [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
 | [PDFoundry](https://github.com/Djphoenix719/PDFoundry) | 🟨 Pendiente de Actualizar | Se ha [prometido]([https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099](https://github.com/Djphoenix719/PDFoundry/issues/142#issuecomment-1237123850)) actualización |
@@ -53,6 +59,10 @@ Fecha de última revisión: 09/09/22
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | ⬛ Desconocido |  |
 | [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | ⬛ Desconocido |  |
 | [Laptop Form Fix](https://github.com/wsaunders1014/laptop-fix) | ⬛ Desconocido | Sin actualizar desde 2020 |
+| [Popout](https://github.com/League-of-Foundry-Developers/fvtt-module-popout) | ⬛ Desconocido |  |
+| [Safety Tools](https://github.com/SpectralCiphers/safety-tools) | ⬛ Desconocido |  |
+| [Scene Clicker](https://github.com/jegasus/scene-clicker) | ⬛ Desconocido |  |
+| [Search Anywhere](https://gitlab.com/riccisi/foundryvtt-search-anywhere) | ⬛ Desconocido |  |
 ## D&D 5e
 Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
