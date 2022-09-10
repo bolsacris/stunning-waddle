@@ -70,11 +70,11 @@ Sistema: 🟩 Compatible
 | Modulo | Estado | Notas |
 | --- | --- | --- |
 | [Autocomplete Inline Properties](https://github.com/ghost-fvtt/FVTT-Autocomplete-Inline-Properties) | 🟩 Compatible |  |
+| [Custom Weapon Properties](https://github.com/bolsacris/customwp) | 🟩 Compatible |  |
 | [Let's Trade 5e](https://github.com/KageJittai/lets-trade-5e) | 🟩 Compatible |  |
 | Plutonium | 🟩 Compatible |  |
 | [Tidy 5e Sheet](https://github.com/sdenec/tidy5e-sheet) | 🟩 Compatible |  |
 | [Better Rolls for 5e](https://github.com/RedReign/FoundryVTT-BetterRolls5e) | 🟦 Sustituir por Alternativa | Sin mantener, sustituir por [Ready Set Roll for 5e](https://github.com/MangoFVTT/fvtt-ready-set-roll-5e) |
-| [Custom Weapon Properties](https://github.com/bolsacris/customwp) | 🟨 Pendiente de Actualizar | Tengo que comprobar que sigue funcionando en la v10 |
 | [D&D Character Monitor](https://github.com/jessev14/dnd5e-character-monitor) | 🟧 Sin Actualizar | El modulo parece activo |
 ## PF2e
 Sistema: 🟩 Compatible
