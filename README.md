@@ -19,6 +19,7 @@ Fecha de última revisión: 09/09/22
 | Modulo | Estado | Notas |
 | --- | --- | --- |
 | [About Time](https://gitlab.com/tposney/about-time) | 🟩 Compatible |  |
+| [Autocomplete Whisper](https://github.com/orcnog/autocomplete-whisper/) | 🟩 Compatible |  |
 | [Automated jb2a animations](https://github.com/otigon/automated-jb2a-animations) | 🟩 Compatible |  |
 | [AFK](https://github.com/cswendrowski/FoundryVTT-AFK/) | 🟩 Compatible |  |
 | [Chat Images](https://github.com/bmarian/chat-images) | 🟩 Compatible |  |
@@ -55,7 +56,6 @@ Fecha de última revisión: 09/09/22
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
 | [GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen) | 🟥 Sin Actualizar | Tengo entendido que el creador dijo no querer actualizar |
-| [Autocomplete Whisper](https://github.com/orcnog/autocomplete-whisper/) | ⬛ Desconocido |  |
 | [Chat Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait) | ⬛ Desconocido |  |
 | [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | ⬛ Desconocido |  |
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | ⬛ Desconocido |  |
