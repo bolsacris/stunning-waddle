@@ -58,8 +58,8 @@ Fecha de última revisión: 09/09/22
 | [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | 🟥 Sin Actualizar | Me crashea la maquina virtual, definitivamente no activar sin que actualice |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | 🟥 Sin Actualizar |  |
+| [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | 🟥 Sin Actualizar |  |
 | [GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen) | 🟥 Sin Actualizar | Tengo entendido que el creador dijo no querer actualizar |
-| [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | ⬛ Desconocido |  |
 | [Laptop Form Fix](https://github.com/wsaunders1014/laptop-fix) | ⬛ Desconocido | Sin actualizar desde 2020 |
 | [Popout](https://github.com/League-of-Foundry-Developers/fvtt-module-popout) | ⬛ Desconocido |  |
 | [Safety Tools](https://github.com/SpectralCiphers/safety-tools) | ⬛ Desconocido |  |
