@@ -54,10 +54,10 @@ Fecha de última revisión: 09/09/22
 | [Bar Brawl](https://gitlab.com/woodentavern/foundryvtt-bar-brawl) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Pin Cushion](https://github.com/p4535992/foundryvtt-pin-cushion/) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
+| [Chat Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait) | 🟥 Sin Actualizar | Da errores en consola pero parece funcionar bien? |
+| [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | 🟥 Sin Actualizar | Me crashea la maquina virtual, definitivamente no activar sin que actualice |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
 | [GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen) | 🟥 Sin Actualizar | Tengo entendido que el creador dijo no querer actualizar |
-| [Chat Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait) | ⬛ Desconocido |  |
-| [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | ⬛ Desconocido |  |
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | ⬛ Desconocido |  |
 | [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | ⬛ Desconocido |  |
 | [Laptop Form Fix](https://github.com/wsaunders1014/laptop-fix) | ⬛ Desconocido | Sin actualizar desde 2020 |
