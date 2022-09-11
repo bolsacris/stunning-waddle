@@ -55,7 +55,7 @@ Fecha de última revisión: 09/09/22
 | [Pin Cushion](https://github.com/p4535992/foundryvtt-pin-cushion/) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
 | [Chat Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait) | 🟥 Sin Actualizar | Da errores en consola pero parece funcionar bien? |
-| [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | 🟥 Sin Actualizar | Me crashea la maquina virtual, definitivamente no activar sin que actualice |
+| [Chat Reactions](https://github.com/YourFavouriteOreo/VTT-Chat-Reactions) | 🟥 Sin Actualizar |  |
 | [Combat Numbers](https://github.com/1000nettles/combat-numbers) | 🟥 Sin Actualizar | No parece activo |
 | [DF Curvy Walls](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-curvy-walls) | 🟥 Sin Actualizar |  |
 | [DF Settings Clarity](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-settings-clarity) | 🟥 Sin Actualizar |  |
