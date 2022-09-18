@@ -48,9 +48,9 @@ Fecha de última revisión: 09/09/22
 | [Torch](https://github.com/League-of-Foundry-Developers/Torch) | 🟩 Compatible |  |
 | [Universal Battlemap Importer](https://github.com/moo-man/FVTT-DD-Import) | 🟩 Compatible |  |
 | [Weather Control](https://gitlab.com/jstebenne/foundryvtt-weather-control) | 🟩 Compatible |  |
+| [PDFoundry](https://github.com/Djphoenix719/PDFoundry) | 🟪 No necesario en v10 | Al parecer hay funcionalidad para PDFs en foundry v10 |
 | [Pings](https://gitlab.com/foundry-azzurite/pings/) | 🟪 No necesario en v10 | Funcionalidad añadida a Foundry Base |
 | [Drag Ruler](https://github.com/manuelVo/foundryvtt-drag-ruler) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/manuelVo/foundryvtt-drag-ruler/issues/221#issuecomment-1236386099) actualización pero tardará en llegar |
-| [PDFoundry](https://github.com/Djphoenix719/PDFoundry) | 🟨 Pendiente de Actualizar | Se ha [prometido](https://github.com/Djphoenix719/PDFoundry/issues/142#issuecomment-1237123850) actualización |
 | [Bar Brawl](https://gitlab.com/woodentavern/foundryvtt-bar-brawl) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Pin Cushion](https://github.com/p4535992/foundryvtt-pin-cushion/) | 🟧 Sin Actualizar | El modulo parece activo |
 | [Chat Drop](https://github.com/schultzcole/FVTT-Chat-Drop) | 🟥 Sin Actualizar | Modulo archivado |
