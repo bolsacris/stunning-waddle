@@ -1,0 +1,149 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "LawfulGoodRogueKnifeThrower",
+				"abbreviation": "LGRKT",
+				"full": "Knife Thrower",
+				"url": "https://lawfulgoodrogue.com/2018/01/05/knife-thrower-rogue-v1/",
+				"authors": [
+					"Lawful Good Rogue"
+				],
+				"convertedBy": [
+					"crinelam"
+				],
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1643217224,
+		"dateLastModified": 1643675458,
+		"_dateLastModifiedHash": "90211fab63"
+	},
+	"subclass": [
+		{
+			"name": "Knife Thrower",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"shortName": "Knife Thrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassFeatures": [
+				"Knife Thrower|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|3",
+				"Acrobatic Retrieval|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|9",
+				"Death's Edge|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|9",
+				"Count on the Throw|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|13",
+				"Butcher's Critical|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|17"
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Knife Thrower",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 3,
+			"entries": [
+				"Daggers are always a favorite of rogues - they're small, easily concealed, and can hurt like hell in the right hands (or in the right back, as it were).",
+				"Some prefer a bit more distance in ther interactions with others, however. Takes a lot of skill for it, but its usually worth it in the end. It's a hands-off, 'nothing personal' approach that's in direct contrast with other rogues' very much up close and personal style.",
+				"Doesn't mean they don't still like knives, though.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Throwing Expertise|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Flurry of Knives|Rogue||Knife Thrower|LawfulGoodRogueKnifeThrower|3"
+				}
+			]
+		},
+		{
+			"name": "Throwing Expertise",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"When you take this archetype at 3rd level, you have learned to apply your knowledge to a wide variety of possible weapons. Any improvised weapon that you can wield in one hand has the Finesse property when thrown."
+			]
+		},
+		{
+			"name": "Flurry of Knives",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Also at 3rd level, your practice with throwing weapons has made you a master of their quick use in combat. Throwing several weapons in close succession is your speciality.",
+				"Whenever you make a thrown attack with a dagger or dart, you can use your bonus action to throw additional daggers or darts. The number of attacks you can make equals half the number of Sneak Attack dice you have, rounded up (minimum 1).",
+				"Using this feature counts as using your Sneak Attack feature, and thus cannot be done on a turn where you have already applied your Sneak Attack damage."
+			]
+		},
+		{
+			"name": "Acrobatic Retrieval",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 9,
+			"header": 2,
+			"entries": [
+				"Once you reach 9th level, your ever-depleting supply of knives has become a problem. So, you've learned to dart into and out of combat to retrieve them.",
+				"As an action, you can gather up to 10 of your own weapons from around a creature. These weapons must be within view and accesible by you without having to reach more than 5 feet into another creature's space."
+			]
+		},
+		{
+			"name": "Death's Edge",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 9,
+			"header": 2,
+			"entries": [
+				"Also at 9th level, the accuracy and power behind your throws strengthens you wepaons. Both daggets and darts now deal 1d6 damage when used as throwinf weapons by you, and damage from thrown daggers and darts counts as magical for the purposes of overcoming damage resistances."
+			]
+		},
+		{
+			"name": "Count on the Throw",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 13,
+			"header": 2,
+			"entries": [
+				"Beginning at 13th level, your skill with thrown weapons is such that you can target specific areas of a creature to cause additional effects. When making a thrown weapon attack, you can chose to make the attack with disadvantage and inflict one of the following effects on a hit.",
+				"Blind. You strike near the target's eyes, dealing damage as normal and blinding it until the end of your next turn. You may only use this option on a creature with visible eyes. A creature hit by this is immune to this effect for 4 hours.",
+				"Scar. You strike in such a way as to leave a noticeable scar on a visible, unarmored part of the creature, dealing no damage. This scar is specific enough for others to identify the creature if you describe it and the scar. Creatures with resistance to slashing or piercing damage are immune to this effect.",
+				"Bleed. You strike a weak point, rupturing a major blood vesse. The target takes bonus damage equal to your Dexterity modifier. At the end of each of its turns, it must make a Constitution save (DC 12) or take this damage again. This lasts until the creature passes the save or 1 minute passes. You may only use this option on a creature whose type you have seen before. Creatures with no blood are immune to the bleeding effect, but still take bonus damage on the initial attack.",
+				"Silence. You strike at the creature's mouth, dealing damage as normal and inhibiting the creature's speech. The target is mute and cannot speak until the end of your next turn. A creature's mouth must be visible in order to use this ability.",
+				"You may also choose to apply any one of these effects on a critical hit instead of rolling extra damage."
+			]
+		},
+		{
+			"name": "Butcher's Critical",
+			"source": "LawfulGoodRogueKnifeThrower",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Knife Thrower",
+			"subclassSource": "LawfulGoodRogueKnifeThrower",
+			"level": 17,
+			"header": 2,
+			"entries": [
+				"At 17th level your prowess has reached legendary levels.",
+				"When throwing daggers or darts you score a critical hit on a roll of 19 or 20."
+			]
+		}
+	]
+}
